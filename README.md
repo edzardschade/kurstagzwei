@@ -1,2 +1,2 @@
 # kurstagzwei
-Das ist meine Repository
+Das ist meine Repository (hallooo)
