@@ -1,0 +1,2 @@
+Neue Dateien / veränderte Dateien committen:
+mit git add . alle veränderten Dateien zum Päckli hinzufügen, git commit -m “Kommentar zu diesem Commit” und dann mit git push alles hinzufügen
